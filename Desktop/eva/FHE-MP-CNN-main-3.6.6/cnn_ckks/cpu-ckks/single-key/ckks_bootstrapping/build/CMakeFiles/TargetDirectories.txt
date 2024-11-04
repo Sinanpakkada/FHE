@@ -1,0 +1,2 @@
+/home/sinan/Desktop/eva/FHE-MP-CNN-main-3.6.6/cnn_ckks/cpu-ckks/single-key/ckks_bootstrapping/build/CMakeFiles/edit_cache.dir
+/home/sinan/Desktop/eva/FHE-MP-CNN-main-3.6.6/cnn_ckks/cpu-ckks/single-key/ckks_bootstrapping/build/CMakeFiles/rebuild_cache.dir
